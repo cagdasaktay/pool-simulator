@@ -191,11 +191,9 @@ include_directories(
 #   DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION}
 # )
 
-install(PROGRAMS
-  scripts/depth_estimator.py
-  scripts/world_to_odom_tf_publisher.py
-  DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
-)
+# install(PROGRAMS
+#  DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
+#)
 
 #############
 ## Testing ##
