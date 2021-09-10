@@ -4,7 +4,7 @@
 
 It is designed for underwater robots (ROV, AUV etc.). The model was created with olympic pool dimensions.
 
-[Click]() to use the more detailed simulator based on UUV Simulator and ROS Melodic.
+[Click](https://github.com/cagdasaktay/pool-simulator-uuv_sim) to use the more detailed simulator based on UUV Simulator and ROS Melodic.
 
 
 
